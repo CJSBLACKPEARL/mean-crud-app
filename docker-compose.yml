@@ -10,7 +10,9 @@ services:
       - mean-network
 
   backend:
-    build: ./backend
+    build:
+      context: ./backend
+      dockerfile: crud-dockfile
     container_name: backend
     restart: always
     environment:
@@ -21,7 +23,9 @@ services:
       - mean-network
 
   frontend:
-    build: ./frontend
+    build:
+      context: ./frontend
+      dockerfile: crud-dockerfile
     container_name: frontend
     restart: always
     depends_on:
