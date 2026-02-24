@@ -162,7 +162,7 @@ The `nginx-proxy.conf` file handles all routing at the VM level.
 ## 📸 Screenshots
 
 ### CI/CD Pipeline - GitHub Actions
-![CI/CD Pipeline](screesnshots/running-cicd.png)
+![CI/CD Pipeline](screenshots/running-cicd.png)
 
 ### Docker Hub - Images Pushed
 ![Docker Hub](screenshots/docker-push.png)
