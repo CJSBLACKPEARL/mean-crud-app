@@ -162,19 +162,19 @@ The `nginx-proxy.conf` file handles all routing at the VM level.
 ## 📸 Screenshots
 
 ### CI/CD Pipeline - GitHub Actions
-![CI/CD Pipeline](screesnshots/Running-CICD.png)
+![CI/CD Pipeline](screesnshots/running-cicd.png)
 
 ### Docker Hub - Images Pushed
 ![Docker Hub](screenshots/docker-push.png)
 
 ### Application Running in Browser
-![App UI](screenshots/App-running.png)
+![App UI](screenshots/app-running.png)
 
 ### Docker Containers Running on VM
 ![Docker PS](screenshots/docker-ps.png)
 
 ### AWS EC2 as VM
-![VM](screenshots/AWS-EC2.png)
+![VM](screenshots/aws-ec2.png)
 
 
 ## 🗄️ Database
